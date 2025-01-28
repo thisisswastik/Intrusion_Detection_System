@@ -1,0 +1,9 @@
+## Requirements
+- Python 3.6+
+- Streamlit
+- Keras
+- TensorFlow
+- Scikit-learn
+- PyShark
+- Pandas
+- Joblib
